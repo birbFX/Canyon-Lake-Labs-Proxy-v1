@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Canyon Lake Lab's Proxy</title>
+		<link rel="stylesheet" href="/index.css" />
+		<!-- keep out of search engines -->
+		<meta name="robots" content="noindex" />
+		<script src="/bootstrap-init.js"></script>
+	</head>
+	<body>
+		<div id="app">
+			<div class="hero">
+				<div class="brand">
+					<span class="mark">CLL</span>
+					<span class="name">Canyon Lake Labs</span>
+				</div>
+				<h1>Canyon Lake Lab's Proxy</h1>
+				<p class="tag">Browse the web, unrestricted.</p>
+
+				<form id="sj-form">
+					<input
+						id="sj-search-engine"
+						value="https://www.google.com/search?q=%s"
+						type="hidden"
+					/>
+					<input
+						id="sj-address"
+						type="text"
+						placeholder="Search or enter an address"
+						autocomplete="off"
+						spellcheck="false"
+					/>
+					<button type="submit">Go</button>
+				</form>
+
+				<div class="errors">
+					<p id="sj-error"></p>
+					<pre id="sj-error-code"></pre>
+				</div>
+			</div>
+
+			<footer>
+				<span>Canyon Lake Labs &copy; 2026</span>
+			</footer>
+		</div>
+
+		<div id="sj-frame-wrapper">
+			<div class="frame-bar">
+				<button id="sj-home" type="button" title="Back to start">
+					&larr;
+				</button>
+				<p id="sj-frame-url"></p>
+			</div>
+			<iframe id="sj-frame"></iframe>
+		</div>
+
+		<script src="/index.js"></script>
+	</body>
+</html>

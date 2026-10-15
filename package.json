@@ -1,0 +1,18 @@
+{
+	"name": "canyon-lake-labs-proxy",
+	"version": "1.0.0",
+	"description": "Canyon Lake Lab's Proxy — a lightweight public web proxy demo.",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node server.js",
+		"start": "node server.js"
+	},
+	"keywords": ["proxy", "web-proxy", "canyon-lake-labs"],
+	"author": "Canyon Lake Labs",
+	"license": "AGPL-3.0-only",
+	"dependencies": {
+		"@mercuryworkshop/proxy-bootstrap": "*",
+		"express": "^4.21.2"
+	}
+}
