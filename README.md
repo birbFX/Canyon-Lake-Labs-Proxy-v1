@@ -1,4 +1,4 @@
-<h1 align="center">Canyon Lake Lab's Proxy</h1>
+<h1 align="center">Canyon Lake Lab's Proxy Demo</h1>
 
 A lightweight, open public web proxy demo by **Canyon Lake Labs**. Enter an
 address or a search and browse the web through the proxy.
