@@ -3,8 +3,7 @@
 A lightweight, open public web proxy demo by **Canyon Lake Labs**. Enter an
 address or a search and browse the web through the proxy.
 
-This is the **public demo** build — intentionally minimal. It ships just the
-browser: no accounts, no inspector, no extras.
+This is the **public demo** build intentionally minimal. It's a minimal build that ships just the browser.
 
 ## Run it
 
