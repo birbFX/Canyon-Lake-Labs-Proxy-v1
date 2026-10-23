@@ -2,8 +2,7 @@
 > **This is AI vibe coding.**
 > This project is a **passion project by Canyon Lake Labs**, built for fun and made
 > almost entirely with AI assistance. It is a hobby project, not a polished
-> commercial product. If you don't like AI-made software, that's completely
-> fine — **don't use it.**
+> commercial product. If you dont like AI made software then dont use it.
 
 <h1 align="center">Canyon Lake Lab's Proxy Demo | v1</h1>
 
