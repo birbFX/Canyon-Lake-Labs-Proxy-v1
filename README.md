@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This is AI vibe coding.**
+> This project is a **passion project by Canyon Lake Labs**, built for fun and made
+> almost entirely with AI assistance. It is a hobby project, not a polished
+> commercial product. If you don't like AI-made software, that's completely
+> fine — **don't use it.**
+
 <h1 align="center">Canyon Lake Lab's Proxy Demo | v1</h1>
 
 A lightweight, open public web proxy demo by **Canyon Lake Labs**. Enter an
@@ -27,11 +34,3 @@ Render / Railway / Fly / a VPS with no extra config.
 - Powered by the open-source [Scramjet](https://github.com/MercuryWorkshop/scramjet)
   proxy engine (AGPL-3.0). All credit for the engine goes to Mercury Workshop.
 - This project is licensed under the AGPL-3.0.
-
----
-
-## AI note
-
-This is an **AI "vibe-coded" passion project**, built for fun by **Canyon Lake
-Labs**. It is made with AI. If you don't like AI, then don't use it.
-
